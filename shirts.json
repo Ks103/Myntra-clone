@@ -1,0 +1,79 @@
+{
+  "shirts": [
+    {
+      "id": 16,
+      "pname": "urban outfitters",
+      "product": "striped button-down shirt",
+      "filter": "men",
+      "imgscr": "https://example.com/images/shirt1.jpg",
+      "img2": "https://example.com/images/shirt1_2.jpg",
+      "img3": "https://example.com/images/shirt1_3.jpg",
+      "img4": "https://example.com/images/shirt1_4.jpg",
+      "price": "Rs 799",
+      "visible": true,
+      "category": "shirt",
+      "size": [38, 40, 44],
+      "description": "A classic striped button-down shirt that offers both style and comfort, perfect for any casual occasion."
+    },
+    {
+      "id": 17,
+      "pname": "h&m",
+      "product": "denim work shirt",
+      "filter": "men",
+      "imgscr": "https://example.com/images/shirt2.jpg",
+      "img2": "https://example.com/images/shirt2_2.jpg",
+      "img3": "https://example.com/images/shirt2_3.jpg",
+      "img4": "https://example.com/images/shirt2_4.jpg",
+      "price": "Rs 999",
+      "visible": true,
+      "category": "shirt",
+      "size": [38, 40, 42],
+      "description": "A rugged denim work shirt that combines style and durability, perfect for a casual yet polished look."
+    },
+    {
+      "id": 18,
+      "pname": "forever 21",
+      "product": "floral print blouse",
+      "filter": "women",
+      "imgscr": "https://example.com/images/shirt3.jpg",
+      "img2": "https://example.com/images/shirt3_2.jpg",
+      "img3": "https://example.com/images/shirt3_3.jpg",
+      "img4": "https://example.com/images/shirt3_4.jpg",
+      "price": "Rs 599",
+      "visible": true,
+      "category": "blouse",
+      "size": ["S", "M", "L"],
+      "description": "A stylish floral print blouse that adds a touch of elegance to any outfit, suitable for both casual and semi-formal occasions."
+    },
+    {
+      "id": 19,
+      "pname": "zalando",
+      "product": "linen summer shirt",
+      "filter": "men",
+      "imgscr": "https://example.com/images/shirt4.jpg",
+      "img2": "https://example.com/images/shirt4_2.jpg",
+      "img3": "https://example.com/images/shirt4_3.jpg",
+      "img4": "https://example.com/images/shirt4_4.jpg",
+      "price": "Rs 699",
+      "visible": true,
+      "category": "shirt",
+      "size": [36, 38, 40],
+      "description": "Stay cool and comfortable during the summer with this lightweight and breathable linen shirt."
+    },
+    {
+      "id": 20,
+      "pname": "mango",
+      "product": "ruffled sleeve blouse",
+      "filter": "women",
+      "imgscr": "https://example.com/images/shirt5.jpg",
+      "img2": "https://example.com/images/shirt5_2.jpg",
+      "img3": "https://example.com/images/shirt5_3.jpg",
+      "img4": "https://example.com/images/shirt5_4.jpg",
+      "price": "Rs 799",
+      "visible": true,
+      "category": "blouse",
+      "size": ["S", "M", "L"],
+      "description": "Elevate your look with this chic ruffled sleeve blouse that adds a touch of sophistication to any ensemble."
+    }
+  ]
+}
