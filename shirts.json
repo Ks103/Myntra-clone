@@ -5,12 +5,9 @@
       "pname": "zara",
       "product": "striped button-down shirt",
       "filter": "men",
-      "imgscr": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8889597/2019/4/8/8dc49bf7-181d-4d8d-80d7-e624ef85e3651554718288714-Roadster-Men-Navy-Blue--Grey-Regular-Fit-Checked-Casual-Shir-1.jpg",
-      "price": "Rs 374",
-      "img2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8889597/2019/4/8/2aa16440-fd34-43e5-98c0-ea8bb729c8c01554718288635-Roadster-Men-Navy-Blue--Grey-Regular-Fit-Checked-Casual-Shir-5.jpg",
-      "img3": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8889597/2019/4/8/a27b5c2f-3eed-4d0b-a538-81fe23703a411554718288694-Roadster-Men-Navy-Blue--Grey-Regular-Fit-Checked-Casual-Shir-2.jpg",
-      "img4": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8889597/2019/4/8/3ee8f788-e1d2-4209-88b3-f2d3c9d041fa1554718288621-Roadster-Men-Navy-Blue--Grey-Regular-Fit-Checked-Casual-Shir-6.jpg",
-   
+     "imgscr": "https://i.imgur.com/gLc0eAx.jpg",    "price": "Rs 374",
+    "img2": "https://i.imgur.com/wPvH0ga.jpg" ,    "img3": "https://i.imgur.com/wNHqjjH.jpg",      "img4": "https://i.imgur.com/1e89sSt.jpg",   
+
       
       "visible": true,
       "category": "shirt",
