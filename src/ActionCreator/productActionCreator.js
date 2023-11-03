@@ -3,7 +3,7 @@ export const productActionCreator = () => {
   return (dispatch, getState) => {
     const getElectronicData = () => {
       console.log("API is Called");
-      fetch("https://charlesgalwyn.github.io/gocoapi/shirts.json")
+      fetch("Add your API")
         .then((res) => res.json())
         .then((data) => {
         
